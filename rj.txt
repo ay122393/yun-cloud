@@ -1,8 +1,8 @@
 // 云控配置开始
-选征兵役制软件名字 = "阿云软件库"
-选征兵役制软件版本 = "2.1" // 这里添加版本号
-sss时间= 5
-sss qq = "122393102 "
-选征兵役制下载路径= "/storage/emulated/0/青云软件库/软件/"
-选征兵役制官方= " https://wwqr . lanzouy . com/b 011 L9 wklc/"
+sss 软件名字 = "阿云软件库"
+sss 软件版本 = "2.1"  // 这里添加版本号
+sss time = 5
+sss qq = "122393102"
+sss 下载路径 = "/storage/emulated/0/青云软件库/软件/"
+sss 官方 = "https://wwqr.lanzouy.com/b011l9wklc/"
 // 云控配置结束
